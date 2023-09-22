@@ -1,10 +1,21 @@
 @charset "UTF-8";
 body{
     background-color: #fffeee;
+    text-align: justify;
+    background-image: url(cup.png);
+    background-size: cover;
 }
 h1{
     color: #0bd;
+    font-family: serif;
+}
+h2{
+    font-size: 2rem;
+    font-family: "游ゴシック体","Yu Gothic", YuGothic, sans-serif;
 }
 p{
     font-size: 20px;
+    font-family: "ヒラギノ丸ゴ Pro W4","Hiragino Maru Gothic Pro", sans-serif;
+    /* font-weight: bold; */
+    line-height: 1.7;
 }
